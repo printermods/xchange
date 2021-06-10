@@ -1,4 +1,4 @@
-# xchange
+# XChange
 XChange printable adapters, firmware, accessories
 
 ======================================================
