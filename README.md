@@ -11,4 +11,8 @@ Read and watch the following before beginning installation of your XChange:
 
 #2 - Warnings and Pre-Installation Checklist: https://github.com/printermods/xchange/blob/main/XChange%20V1.0%20-%20Pre-Installation%20Checklist%20Rev%200.pdf
 
-#3 - Frequently Asked Questions: https://github.com/printermods/xchange/blob/main/FAQ
+#3 - Wiring Notes and Diagrams: https://github.com/printermods/xchange/blob/main/XChange%20V1.0%20-%20Wiring%20Diagrams.pdf
+
+#4 - Frequently Asked Questions: https://github.com/printermods/xchange/blob/main/FAQ
+
+
