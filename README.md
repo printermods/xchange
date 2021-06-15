@@ -5,3 +5,6 @@ XChange printable adapters, firmware, knowledge base, accessories
 ======================================================
 
 # Start Here
+#1 - XChange V1.0 - Basic Installation Instructions:
+https://www.youtube.com/watch?v=RV0KnSQEELk
+
