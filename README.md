@@ -13,6 +13,8 @@ Read and watch the following before beginning installation of your XChange:
 
 #3 - Wiring Notes and Diagrams: https://github.com/printermods/xchange/blob/main/XChange%20V1.0%20-%20Wiring%20Diagrams.pdf
 
-#4 - Frequently Asked Questions: https://github.com/printermods/xchange/blob/main/FAQ
+#4 - Measuring and Calculating Belt Length: https://github.com/printermods/xchange/blob/main/XChange%20V1.0%20-%20Belt%20Lengths.pdf
+
+#5 - Frequently Asked Questions: https://github.com/printermods/xchange/blob/main/FAQ
 
 
