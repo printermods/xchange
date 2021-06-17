@@ -1,4 +1,4 @@
-Have an adapter you'd like us to share? Send it to us, along with a description, at support@printermods.com and we'll check it out!
+**Have an adapter you'd like us to share? Send it to us, along with a description, at support@printermods.com and we'll check it out!**
 
 Ender-6 Printable CoreXY Belt Adapter:
 https://github.com/printermods/xchange/blob/main/Printable%20Files/Ender%206%20Printable%20Belt%20Adapter%20v4.stl
