@@ -7,7 +7,7 @@ https://github.com/printermods/xchange/blob/main/Printable%20Files/alignment-too
 https://github.com/printermods/xchange/blob/main/Printable%20Files/Ender%206%20Printable%20Belt%20Adapter%20v4.stl  
 
 **Ender-3 / Ender-5 / CR-10 Style Fan Cover Adapter:**
-https://github.com/printermods/xchange/blob/main/Printable%20Files/ender-stock-fan-shroud-xchangev2.stl
+https://github.com/printermods/xchange/blob/main/Printable%20Files/ender-stock-fan-shroud-xchange-v2.stl
 
 **Tool Plate Wire Cover:**
 https://github.com/printermods/xchange/blob/main/Printable%20Files/Tool%20Plate%20Wire%20Cover.stl  
