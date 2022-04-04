@@ -10,7 +10,7 @@ https://github.com/printermods/xchange/blob/main/Printable%20Files/Ender%206%20P
 https://github.com/printermods/xchange/blob/main/Printable%20Files/ender-stock-fan-shroud-xchange-v2.stl
 
 **Tool Plate Wire Cover:**
-https://github.com/printermods/xchange/blob/main/Printable%20Files/Tool%20Plate%20Wire%20Cover.stl  
+https://github.com/printermods/xchange/blob/main/Printable%20Files/tool-plate-wire-cover.stl  
 
 **Master Assembly Cover (90º wire strain relief)**
 https://github.com/printermods/xchange/blob/main/Printable%20Files/Master%20Assembly%20Cover%20-%20TT.stl  
